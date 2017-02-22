@@ -1,0 +1,6 @@
+.DS_Store
+.tmp/
+Thumbs.db
+vendor/
+serve/
+node_modules/
